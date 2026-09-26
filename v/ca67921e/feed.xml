@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Capy Stories</title>
+    <link>https://topg187.github.io/cdn-eaa49d925e34/v/ca67921e</link>
+    <language>en-us</language>
+    <description>Capy Stories — full stories and Reddit-style episodes.</description>
+    <itunes:author>Capy Stories</itunes:author>
+    <itunes:summary>Capy Stories — full stories and Reddit-style episodes.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:owner>
+      <itunes:name>Capy Stories</itunes:name>
+      <itunes:email>forkedchessyt@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://topg187.github.io/cdn-eaa49d925e34/v/ca67921e/cover.jpg"/>
+    <image><url>https://topg187.github.io/cdn-eaa49d925e34/v/ca67921e/cover.jpg</url><title>Capy Stories</title><link>https://topg187.github.io/cdn-eaa49d925e34/v/ca67921e</link></image>
+    <atom:link href="https://topg187.github.io/cdn-eaa49d925e34/v/ca67921e/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Capy Stories — Welcome</title>
+      <description>Capy Stories — full stories and Reddit-style episodes.</description>
+      <guid isPermaLink="false">bootstrap-bda22e05f5d98fe5</guid>
+      <pubDate>Sat, 26 Sep 2026 19:04:37 GMT</pubDate>
+      <enclosure url="https://topg187.github.io/cdn-eaa49d925e34/v/ca67921e/episodes/bootstrap-claim.mp3" type="audio/mpeg" length="8339"/>
+      <itunes:image href="https://topg187.github.io/cdn-eaa49d925e34/v/ca67921e/cover.jpg"/>
+      <itunes:duration>00:00:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
